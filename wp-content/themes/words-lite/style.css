@@ -1,0 +1,101 @@
+/*!
+Theme Name: Words Lite
+Theme URI: https://themesarray.com/wordpress_themes/words-lite/
+Author: Themesarray
+Author URI: https://themesarray.com/
+Description: Words Lite is a beautiful creative free responsive blog WordPress Child theme. It is fully responsive and works perfectly on all type of devices like mobiles, tablets, laptops, and all kinds of browser. Words Lite is very easy to use and customize the theme. This theme is made for any search engine, SEO Compatible. Words Lite is child theme of The Words.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: words-lite
+Template: the-words
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready, two-columns, right-sidebar, grid-layout, footer-widgets, rtl-language-support, theme-options, blog 
+Tested up to: 5.9
+Requires PHP: 5.5
+*/
+
+.site-branding {
+    width: 250px;
+}
+.site-footer .loop-posts-blog-recent{
+    border-bottom: none;
+}
+.ta-top-notice-bar {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding: 7px 0;
+}
+span.ta-bar-sticker {
+    margin-right: 15px;
+    background: #5ca595;
+    padding: 2px 5px;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 15px;
+}
+.ta-top-notice-bar h2 {
+    margin: 0;
+    font-size: 17px;
+    margin-right: 15px;
+    color: #535353;
+    font-weight: 400;
+}
+.ta-top-notice-bar a {
+    text-decoration: underline;
+}
+.ta-top-notice-bar-main {
+    position: relative;
+    box-shadow: 0 1px 1px 0px #efefef;
+    z-index: 999;
+}
+.toggle-notice-bar button {
+    border: none;
+    background: no-repeat;
+}
+span.toggle-notice-bar-close svg {
+    color: #000;
+}
+span.toggle-notice-bar-open svg {
+	color: #000;
+	background: #fff;
+	text-align: center;
+	width: 25px;
+}
+.ta-notice-button-active span.toggle-notice-bar-close {
+    display: block;
+}
+
+.toggle-notice-bar {
+    position: absolute;
+    top: 50%;
+    right: 100px;
+    transform: translateY(-18px);
+}
+.toggle-notice-bar.ta-notice-button-active button {
+    padding: 18px 3px 12px 10px;
+}
+.site-header.ta-header-1 a.ta-search-toggle {
+    color: #494949;
+}
+.ta-top-header.ta-top-header-2 .ta-header-search-main {
+    width: calc(50% - 60px);
+}
+.site-header.ta-header-1 .ta-header-search-main a {
+    color: #000;
+}
+.title-banner-post a:hover, .title-recent-post a:hover {
+    color: #afafaf;
+}
+/** Responsive **/
+@media(max-width:1024px) {
+
+    .toggle-notice-bar {
+        right: 0;
+    }
+    .ta-top-notice-bar {
+        justify-content: left;
+    }
+
+}

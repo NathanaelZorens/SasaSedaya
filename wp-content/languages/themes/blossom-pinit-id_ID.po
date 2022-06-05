@@ -1,0 +1,147 @@
+# Translation of Themes - Blossom PinIt in Indonesian
+# This file is distributed under the same license as the Themes - Blossom PinIt package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-07-23 09:06:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Blossom PinIt\n"
+
+#. Theme Name of the theme
+msgid "Blossom PinIt"
+msgstr "Blossom PinIt"
+
+#. Description of the theme
+msgid "Blossom PinIt is a child theme of Blossom Pin Free WordPress theme. This theme features a Pinterest styled layout helpful to create a visually appealing and lively blog for female bloggers. You can create a fully responsive and mobile-friendly blog using this theme without writing a single liine of code. This theme can be the perfect choice for female bloggers who are serious about blogging and wants to share their expert fashion tips, favorite recipes or create a lifestyle, travel, food, beauty, make-up, coaching, wedding, portfolio, personal, girly, parenting or cooking blog. The beautifully placed Instagram section can be used to show your Instagram account and increase your followers. The well placed Newsletter section will help you to grow your email list and keep in touch with your visitors. Furthermore, it is SEO friendly, Schema friendly, and speed optimized. The theme is translation ready and supports RTL and WooCommerce plugin for your utmost benefit. In addition, Blossom PinIt is backed by world-class, one-on-one support, and a super active team of developers and designers ready to help! Check demo: https://blossomthemes.com/theme-demo/?theme=blossom-pinit, read documentation: https://docs.blossomthemes.com/docs/blossom-pinit/, and get support: https://blossomthemes.com/support-ticket/"
+msgstr "Blossom PinIt adalah tema turunan dari tema WordPress Gratis Blossom Pin. Tema ini menampilkan layout bergaya Pinterest yang membantu untuk membuat blog yang menarik dan semarak secara visual untuk blogger wanita. Anda dapat membuat blog yang sepenuhnya responsif dan mobile-friendly menggunakan tema ini tanpa menulis satu kode pun. Tema ini dapat menjadi pilihan sempurna bagi blogger wanita yang serius dalam blogging dan ingin berbagi kiat fashion mereka, resep favorit, atau lifestyle, travel, makanan, kecantikan, make-up, pelatihan, pernikahan, portofolio, pribadi, feminin, parenting, atau memasak blog. Bagian Instagram yang ditempatkan dengan indah dapat digunakan untuk menunjukkan akun Instagram Anda dan meningkatkan pengikut Anda. Bagian Newsletter yang ditempatkan dengan baik akan membantu Anda mengembangkan daftar e-mail Anda dan tetap berhubungan dengan pengunjung Anda. Selain itu, tema ini SEO friendly, Skema friendly, dan kecepatannya dioptimalkan. Tema ini siap diterjemahkan dan mendukung plugin RTL dan WooCommerce untuk keuntungan maksimal Anda. Selain itu, Blossom PinIt didukung oleh layanan bantuan one-on-one, dan tim developer dan desainer yang sangat aktif berkelas dunia siap membantu Anda! Cek demo: https://blossomthemes.com/theme-demo/?theme=blossom-pinit, baca dokumentasi: https://docs.blossomthemes.com/docs/blossom-pinit/, dan dapatkan bantuan: https://blossomthemes.com/support-ticket/"
+
+#: functions.php:67
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr "Tautan Dokumentasi: %1$sKlik di sini.%2$s"
+
+#: functions.php:65
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr "Tautan Demo: %1$sKlik di sini.%2$s"
+
+#: functions.php:52
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#: functions.php:92
+msgid "Primary Color"
+msgstr "Warna Utama"
+
+#: functions.php:106
+msgid "Appearance Settings"
+msgstr "Pengaturan Tampilan"
+
+#: functions.php:180
+msgid "Font Size"
+msgstr "Ukuran Font"
+
+#: functions.php:762
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#: functions.php:115
+msgid "Typography"
+msgstr "Tipografi"
+
+#: functions.php:93
+msgid "Primary color of the theme."
+msgstr "Warna primer tema."
+
+#: functions.php:181
+msgid "Change the font size of your site."
+msgstr "Ubah ukuran font judul situs Anda."
+
+#: functions.php:158
+msgid "Secondary font of the site."
+msgstr "Font sekunder situs."
+
+#: functions.php:157
+msgid "Secondary Font"
+msgstr "Font Sekunder"
+
+#: functions.php:136
+msgid "Primary font of the site."
+msgstr "Font utama situs."
+
+#: functions.php:135
+msgid "Primary Font"
+msgstr "Font Utama"
+
+#: functions.php:425
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:424
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:423
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:762
+msgid " Powered by %s"
+msgstr " Ditenagai oleh %s"
+
+#: functions.php:759
+msgid " Blossom PinIt | Developed By "
+msgstr " Blossom PinIt | Diciptakan Oleh"
+
+#: functions.php:345
+msgid "Discover More"
+msgstr "Jelajahi Lebih Lanjut"
+
+#: functions.php:343
+msgid "Wondering how your peers are using social media?"
+msgstr "Ingin tahu bagaimana rekan Anda menggunakan media sosial?"
+
+#: functions.php:256
+msgid "Choose the layout of the slider for your site."
+msgstr "Pilih layout untuk slider situs Anda."
+
+#: functions.php:234 functions.php:255
+msgid "Slider Layout"
+msgstr "Layout Slider"
+
+#: functions.php:221
+msgid "it is the layout for header."
+msgstr "Layout untuk header."
+
+#: functions.php:199 functions.php:220
+msgid "Header Layout"
+msgstr "Layout Header"
+
+#: functions.php:107
+msgid "Customize Typography & Background Image"
+msgstr "Sesuaikan Tipografi & Gambar Latar Belakang."
+
+#: functions.php:344
+msgid "Discover how people in the community looks create pins to get their attention?"
+msgstr "Jelajahi bagaimana orang-orang komunitas membuat pin untuk menarik perhatian?"
+
+#. Author of the theme
+#: functions.php:760
+msgid "Blossom Themes"
+msgstr "Blossom Themes"
+
+#. Author URI of the theme
+msgid "https://blossomthemes.com/"
+msgstr "https://blossomthemes.com/"
+
+#. Theme URI of the theme
+msgid "https://blossomthemes.com/downloads/blossom-pinit"
+msgstr "https://blossomthemes.com/downloads/blossom-pinit"
